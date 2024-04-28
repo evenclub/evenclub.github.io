@@ -9,8 +9,8 @@
 body {
   font-family: Arial, sans-serif; /* Changed font to Arial */
   line-height: 1.8; /* Increased line height for better readability */
-  background-color: lavender; /* Changed background color to a lighter shade */
-  color: #333; /* Changed text color to a darker shade */
+  background-color: #efefef; /* Changed background color to efefef */
+  color: #000000; /* Changed text color to black */
   font-size: 18px; /* Increased base font size for better readability */
 }
 
@@ -22,14 +22,9 @@ body {
 
 /* Header styling */
 header {
-  background-color: #2ecc71; /* Green header */
+  background-color: #875626; /* Changed header color to 875626 */
   color: #fff;
   padding: 20px 0; /* Decreased padding for a slimmer header */
-}
-
-h1 {
-  font-size: 2.5em; /* Reduced heading size */
-  margin-bottom: 20px;
 }
 
 /* Welcome text styling */
@@ -47,7 +42,7 @@ h1 {
 
 .search-bar input {
   padding: 10px;
-  border: 2px solid #2ecc71; /* Green border */
+  border: 2px solid #875626; /* Changed border color to 875626 */
   border-radius: 5px;
   font-size: 16px;
   width: 60%;
@@ -57,7 +52,7 @@ h1 {
 .search-bar button {
   padding: 10px 20px;
   cursor: pointer;
-  background-color: #2ecc71; /* Green button */
+  background-color: #875626; /* Changed button color to 875626 */
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -66,7 +61,7 @@ h1 {
 }
 
 .search-bar button:hover {
-  background-color: #27ae60; /* Darker green on hover */
+  background-color: #6c4121; /* Darker color on hover */
 }
 
 /* Flex container styling */
@@ -97,7 +92,7 @@ h1 {
 
 /* Footer styling */
 footer {
-  background-color: #34495e; /* Dark blue footer */
+  background-color: #875626; /* Changed footer color to 875626 */
   color: #fff;
   padding: 15px 0; /* Decreased padding for slimmer footer */
   text-align: center;
@@ -108,7 +103,7 @@ footer {
   position: fixed;
   top: 20px;
   right: 20px;
-  background-color: #2ecc71; /* Green button */
+  background-color: #875626; /* Changed button color to 875626 */
   color: white;
   padding: 15px;
   border: none;
@@ -118,8 +113,9 @@ footer {
 }
 
 .home-button:hover {
-  background-color: #27ae60; /* Darker green on hover */
+  background-color: #6c4121; /* Darker color on hover */
 }
+
 
 
 
